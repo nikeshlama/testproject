@@ -11,5 +11,7 @@ public class loginform extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_loginform);
         //hello this is loginform
+        //test 2
+
     }
 }
