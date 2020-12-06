@@ -4,11 +4,14 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class signupform extends AppCompatActivity {
+public class loginform extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_signupform);
+        setContentView(R.layout.activity_loginform);
+        //hello this is loginform
+        //test 2
+
     }
 }
